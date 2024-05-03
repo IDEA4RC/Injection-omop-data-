@@ -1,0 +1,14 @@
+# Archivos de entorno
+*.env
+
+# Directorios generados
+__pycache__
+venv/
+node_modules/
+tmp/
+
+# Comentarios
+# Esta línea excluye todos los archivos con la extensión .log
+*.log
+*.csv
+
